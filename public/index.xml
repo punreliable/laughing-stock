@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Punreliable Laughing Stock</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Punreliable Laughing Stock</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2019 17:18:05 +0100</lastBuildDate>
@@ -17,6 +17,15 @@
       <pubDate>Thu, 18 Jul 2019 17:18:05 +0100</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
+      <description> Hugo on Vercel </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-pun/</link>
+      <pubDate>Thu, 18 Jul 2019 17:18:05 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-pun/</guid>
       <description> Hugo on Vercel </description>
     </item>
     
